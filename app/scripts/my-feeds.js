@@ -14,7 +14,7 @@ angular.module('my-feeds', [
     }, true);
 
     if (!storage.get('feeds')) {
-      $http.get('my-feeds.json').success(function (feeds) {
+      $http.get('https://raw.githubusercontent.com/UnissonCo/veille-is/master/flux.json').success(function (feeds) {
         $scope.feeds = feeds;
       });
     }
