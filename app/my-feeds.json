@@ -1,34 +1,22 @@
 [
   {
-    "title": "Hacker News",
-    "url": "https://news.ycombinator.com/rss",
+    "title": "Wedemain",
+    "url": "http://www.wedemain.fr/xml/atom.xml",
     "count": 10
   },
   {
-    "title": "DZone",
-    "url": "http://feeds.dzone.com/dzone/frontpage?format=xml",
+    "title": "ANIS Asso",
+    "url": "http://www.anis.asso.fr/spip.php?page=backend",
     "count": 10
   },
   {
-    "title": "Reddit Programming",
-    "url": "http://www.reddit.com/r/programming/.rss",
+    "title": "Fing",
+    "url": "http://feeds2.feedburner.com/fing/actu",
     "count": 10
   },
   {
-    "title": "NetTuts+",
-    "url": "http://feeds.feedburner.com/nettuts",
-    "summary": true,
-    "count": 10
-  },
-  {
-    "title": "A List Apart",
-    "url": "http://feeds.feedburner.com/alistapart/main",
-    "summary": true,
-    "count": 10
-  },
-  {
-    "title": "Think Vitamin",
-    "url": "http://feeds.feedburner.com/vitaminmasterfeed",
+    "title": "Pratiques Collaboratives",
+    "url": "http://www.pratiques-collaboratives.net/spip.php?page=backend",
     "summary": true,
     "count": 10
   }
